@@ -5,12 +5,4 @@
 - 💬 Ask me about  Mobile App Development...
 - 📫 How to reach me:malikfaisalhakim@gmail.com ...
 
- <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHak&langs_count=8)](https://github.com/MalikHak/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalikHak&show_icons=true&locale=en" alt="MalikHak" width="410" /></p>
-
-<hr>
 
