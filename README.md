@@ -1,5 +1,8 @@
 ### Hi there 👋
-Native Android, IOS Development
+      Native Android, IOS Development
 - 👯 I’m looking to collaborate on Mobile App Startups ...
-  --  https://skyline.github.com/malikhak/2021  --
+  💬 Ask me about Mobile App Development...
+  📫 How to reach me:malikfaisalhakim@gmail.com ...
+  
+-- https://skyline.github.com/malikhak/2021 --
 
