@@ -2,7 +2,7 @@
 
       Native Android, IOS Development, Kotlin Multiplatform
 
-  Kotlin, Java, Python, Javascript
+       Kotlin, Java, Python, Javascript
 
 - 👯 I’m looking to collaborate on Mobile App,AI Startups ...
   💬 Ask me about Mobile App Development...
